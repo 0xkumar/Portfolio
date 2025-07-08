@@ -1,6 +1,10 @@
-# 0xkmr_ - Security Researcher
+## 0xkmr_ -   Security researcher specializing in Auditing Solana Programs
 
-Passionate security researcher specializing in Auditing Solana Programs
+I can be contacted via:
+
+- **X:** @0xkmr_
+- **Telegram:** https://t.me/MahammadKumar
+
 
 ## 🏆 Public Contest
 
