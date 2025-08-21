@@ -12,6 +12,7 @@ I can be contacted via:
 |---|---|---|---|---|---| --- |
 | Pump Science (Solana) | Code4rena |  5th Place | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana, Rust | $ 1277 |
 | Zeta Chain  | Sherlock |12th Place | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
+|Sui Dex|HackenProof|16th Place|1 Critical|[link](https://hackenproof.com/audit-programs/suidex-audit-contest?tab=hackers)|Sui, Move| $ 36 |
 |Aave V3 | Cantina | Processing| 1 Low, 1 info| [link](Processing)|Aptos, Move| -- |
 
 ## 💼 Professional Work
