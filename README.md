@@ -23,7 +23,7 @@ I can be contacted via:
 | Memetropolis | Cross chain protocol integrated with Layerzero | Dec 2024 | Solana,  Rust | 
 | AUDD Novatti | Solana Vault | Feb 2025| Solana, Rust |
 | Guardian Vara | Staking Protocol | Feb 2025| Vara network, Rust |
-|Somma| Initial Coin Offering| Oct15 to Oct 25 | Solana |  
+|Somma| Initial Coin Offering| Oct 2025 | Solana |  
 
 ## 🛠️ Technical Skills
 
