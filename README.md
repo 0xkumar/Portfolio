@@ -10,7 +10,8 @@ I can be contacted via:
 
 | Rank | Contest | Platform | Findings | Link | Language | Reward |
 |---|---|---|---|---|---|---|
-| 5 | Pump Science (Solana) | Code4rena | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana, Rust | $ 1277 |
+| 4 | Solayer Bridge | Cantina | 1H 2M | [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) |Solana| $ 2978 |
+| 5 | Pump Science (Solana) | Code4rena | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana | $ 1277 |
 | 12 | Zeta Chain  | Sherlock | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
 | 16 |Sui Dex|HackenProof|1 Critical|[link](https://hackenproof.com/audit-programs/suidex-audit-contest?tab=hackers)|Sui, Move| $ 36 |
 
