@@ -14,6 +14,7 @@ I can be contacted via:
 | 5 | Pump Science (Solana) | Code4rena | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana | $ 1277 |
 | 12 | Zeta Chain  | Sherlock | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
 | 16 |Sui Dex|HackenProof|1 Critical|[link](https://hackenproof.com/audit-programs/suidex-audit-contest?tab=hackers)|Sui, Move| $ 36 |
+|21| Dango Dex | Sherlock | 1 M | [Link](https://audits.sherlock.xyz/contests/1066?filter=results)| Rust | $ 10 |
 
 ## 💼 Private Work
 
