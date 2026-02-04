@@ -10,12 +10,12 @@ I can be contacted via:
 
 | Rank | Contest | Platform | Findings | Link | Language | Reward |
 |---|---|---|---|---|---|---|
-| 4 | Solayer Bridge | Cantina | 1H 2M | [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) |Solana| $ 2978 |
 | 5 | Pump Science (Solana) | Code4rena | 1 H | [Link](https://code4rena.com/audits/2025-01-pump-science) | Solana | $ 1277 |
 | 12 | Zeta Chain  | Sherlock | 1 H, 1 M | [Link](https://audits.sherlock.xyz/contests/857) | Go, Rust | $ 960 |
 | 16 |Sui Dex|HackenProof|1 Critical|[link](https://hackenproof.com/audit-programs/suidex-audit-contest?tab=hackers)|Sui, Move| $ 36 |
 |21| Dango Dex | Sherlock | 1 M | [Link](https://audits.sherlock.xyz/contests/1066?filter=results)| Rust | $ 10 |
-|61| Reflector | Code4rena | 1 H, 1M, 1L | [Link](https://code4rena.com/audits/2025-10-reflector-v3/submissions?page=1&filter=all&search=0x_kmr)| Rust, Stellar | _ |
+| 4 | Solayer Bridge | Cantina | 1H 2M | [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) |Solana| $ 2978 |
+|61| Reflector | Code4rena | 1 H, 1M, 1L | [Link](https://code4rena.com/audits/2025-10-reflector-v3/submissions?page=1&filter=all&search=0x_kmr)| Rust, Stellar |0|
 |_| Rujira | Code4rena | 2H | [Link](https://code4rena.com/audits/2025-12-rujira/submissions/)| Rust, CosmWasm | _ |
 
 
