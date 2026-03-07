@@ -16,7 +16,7 @@ I can be contacted via:
 |21| Dango Dex | Sherlock | 1 M | [Link](https://audits.sherlock.xyz/contests/1066?filter=results)| Rust | $ 10 |
 | 4 | Solayer Bridge(Solana) | Cantina | 1H 2M | [Link](https://cantina.xyz/code/0f543452-2076-438f-86ae-bbd6b065fffb/overview/leaderboard) |Solana| $ 2978 |
 |16| Reflector | Code4rena | 1 H, 1M, 1L | [Link](https://code4rena.com/audits/2025-10-reflector-v3/submissions?page=1&filter=all&search=0x_kmr)| Rust, Stellar |0|
-|_| Rujira | Code4rena | 2H | [Link](https://code4rena.com/audits/2025-12-rujira/submissions/)| Rust, CosmWasm | _ |
+|_| Rujira | Code4rena | 3H, 1 M | [Link](https://code4rena.com/audits/2025-12-rujira/submissions/)| Rust, CosmWasm | _ |
 
 
 ## 💼 Private Work
